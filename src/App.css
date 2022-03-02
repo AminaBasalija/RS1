@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.navigation {
+  display: flex;
+  background-color: #3960cf;
+}
+
+h4 {
+  margin-left: 1rem;
+  margin-right: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
